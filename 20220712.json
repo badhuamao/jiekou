@@ -1,7 +1,7 @@
 // 配置地址 --> clan://localhost/TVBox/bc.json
 
 {
-"spider":"https://github.com/badhuamao/jiekou/blob/main/cz0708.jar",
+"spider":"https://hub.0z.gs/badhuamao/jiekou/blob/main/cz0708.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
 
 "sites":[
